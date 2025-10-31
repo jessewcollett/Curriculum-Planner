@@ -1,0 +1,5 @@
+{
+  "name": "Theatre Curriculum Planner",
+  "description": "An intelligent curriculum planning tool for educators. Drag and drop units, specify course details, and leverage AI to generate customized Google Docs and Slides templates, including unit overviews, lesson plans, and inquiry questions.",
+  "requestFramePermissions": []
+}
